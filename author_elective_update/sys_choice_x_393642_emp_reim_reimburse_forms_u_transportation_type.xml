@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_transportation_type" table="x_393642_emp_reim_reimburse_forms" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_transportation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Flight</label>
+            <language>en</language>
+            <name>x_393642_emp_reim_reimburse_forms</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 21:33:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d35e26a2dbaf7300ac38dde748961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 21:33:40</sys_updated_on>
+            <value>flight</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_transportation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Train</label>
+            <language>en</language>
+            <name>x_393642_emp_reim_reimburse_forms</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 21:33:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>575e26a2dbaf7300ac38dde748961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 21:33:40</sys_updated_on>
+            <value>train</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_transportation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bus</label>
+            <language>en</language>
+            <name>x_393642_emp_reim_reimburse_forms</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 21:33:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>135e26a2dbaf7300ac38dde74896191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 21:33:40</sys_updated_on>
+            <value>bus</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_transportation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_393642_emp_reim_reimburse_forms</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 21:33:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>935e26a2dbaf7300ac38dde748961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 21:33:40</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_transportation_type</element>
+            <name>x_393642_emp_reim_reimburse_forms</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 21:33:40</sys_created_on>
+            <sys_id>1f5e26a2dbaf7300ac38dde748961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_transportation_type</sys_name>
+            <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+            <sys_update_name>sys_choice_x_393642_emp_reim_reimburse_forms_u_transportation_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 21:33:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
