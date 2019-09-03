@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_393642_emp_reim.fetchERFNum</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>get the number of reimbursment forms submitted by employees when the user submits a record</description>
+        <name>fetchERFNum</name>
+        <script><![CDATA[var fetchERFNum = Class.create();
+fetchERFNum.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    
+    getRecord: function() {
+    var gr = new GlideRecord("x_393642_emp_reim_reimburse_forms");
+    gr.query();
+    var count = gr.getRowCount();
+    return count;
+    
+    },
+    type: 'fetchERFNum'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-01 21:11:13</sys_created_on>
+        <sys_id>25cca3f6db233300ac38dde748961964</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>fetchERFNum</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_update_name>sys_script_include_25cca3f6db233300ac38dde748961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-01 21:40:30</sys_updated_on>
+    </sys_script_include>
+</record_update>

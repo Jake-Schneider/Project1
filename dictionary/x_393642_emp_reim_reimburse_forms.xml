@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Travel Reimbursement" max_length="40" name="x_393642_emp_reim_reimburse_forms" type="collection">
+    <element extends="task" label="Travel Reimbursement" max_length="40" name="x_393642_emp_reim_reimburse_forms" sizeclass="18" type="collection">
         <element attributes="encode_utf8=false" label="Employee" mandatory="true" max_length="32" name="u_employee" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Travel End Date" max_length="40" name="u_end_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Impact" max_length="40" name="u_impact" type="string">

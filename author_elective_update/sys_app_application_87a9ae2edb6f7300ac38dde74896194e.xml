@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Reimburse Forms</name>
+        <order>100</order>
+        <roles>x_393642_emp_reim.reimburse_forms_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-31 21:13:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>87a9ae2edb6f7300ac38dde74896194e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Reimburse Forms</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Employee Reimbursement 2" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement 2">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_update_name>sys_app_application_87a9ae2edb6f7300ac38dde74896194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-31 21:54:34</sys_updated_on>
+        <title>Reimburse Forms</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</application>
+        <file_path/>
+        <instance_id>8ad80b85db87d3c00e785d00cf9619aa</instance_id>
+        <instance_name>dev63061</instance_name>
+        <name>sys_app_application_87a9ae2edb6f7300ac38dde74896194e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Reimburse Forms</name><order>100</order><roles>x_393642_emp_reim.reimburse_forms_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-31 21:13:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>87a9ae2edb6f7300ac38dde74896194e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Reimburse Forms</sys_name><sys_overrides/><sys_package display_value="Employee Reimbursement 2" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package><sys_policy/><sys_scope display_value="Employee Reimbursement 2">16682a6adb6f7300ac38dde7489619d1</sys_scope><sys_update_name>sys_app_application_87a9ae2edb6f7300ac38dde74896194e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-31 21:54:34</sys_updated_on><title>Reimburse Forms</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>921707657</payload_hash>
+        <record_name>Reimburse Forms</record_name>
+        <reverted_from/>
+        <source>5268a22edb6f7300ac38dde7489619e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-31 21:54:34</sys_created_on>
+        <sys_id>ed237aa6dbaf7300ac38dde74896191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ce9ac3c8a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-31 21:54:34</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>69237aa6b5af73002ca2bf369786561d</update_guid>
+        <update_guid_history>69237aa6b5af73002ca2bf369786561d:921707657,d0037aa66eaf7300293b170b98148ae5:-119214488,8fa9e66e0e6f73000121b1dcd2fc538a:921707657</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Reimburse Forms">996f0013dba37300ac38dde748961937</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-02 17:54:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>81874888a7924813bbb9e25078e163d9</sys_id>
+        <sys_metadata>87a9ae2edb6f7300ac38dde74896194e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reimburse Forms</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_scope_delete display_value="">02c475b0d3814bdb92458fce4d4f5559</sys_scope_delete>
+        <sys_update_name>sys_app_application_87a9ae2edb6f7300ac38dde74896194e</sys_update_name>
+        <sys_update_version display_value="sys_app_application_87a9ae2edb6f7300ac38dde74896194e">ed237aa6dbaf7300ac38dde74896191d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-02 17:54:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

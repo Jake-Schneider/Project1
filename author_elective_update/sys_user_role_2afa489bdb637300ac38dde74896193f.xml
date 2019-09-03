@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_393642_emp_reim.Create reimbursement forms</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Create reimbursement forms</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-02 17:36:11</sys_created_on>
+        <sys_id>2afa489bdb637300ac38dde74896193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_393642_emp_reim.Create reimbursement forms</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_update_name>sys_user_role_2afa489bdb637300ac38dde74896193f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-02 17:36:11</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</application>
+        <file_path/>
+        <instance_id>8ad80b85db87d3c00e785d00cf9619aa</instance_id>
+        <instance_name>dev63061</instance_name>
+        <name>sys_user_role_2afa489bdb637300ac38dde74896193f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_393642_emp_reim.Create reimbursement forms</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>Create reimbursement forms</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-02 17:36:11</sys_created_on><sys_id>2afa489bdb637300ac38dde74896193f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_393642_emp_reim.Create reimbursement forms</sys_name><sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package><sys_policy/><sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope><sys_update_name>sys_user_role_2afa489bdb637300ac38dde74896193f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-02 17:36:11</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>770343290</payload_hash>
+        <record_name>x_393642_emp_reim.Create reimbursement forms</record_name>
+        <reverted_from/>
+        <source>5268a22edb6f7300ac38dde7489619e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-02 17:36:11</sys_created_on>
+        <sys_id>7b2b489bdb637300ac38dde7489619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16cf30c65a60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-02 17:36:11</sys_updated_on>
+        <type>Role</type>
+        <update_guid>b32b489b4c63730021a763112cfd87d9</update_guid>
+        <update_guid_history>b32b489b4c63730021a763112cfd87d9:770343290</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_393642_emp_reim.Create reimbursement forms">fccd809fdb637300ac38dde748961989</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-02 17:47:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>733a4831e9564898bd4e6603c7dc3910</sys_id>
+        <sys_metadata>2afa489bdb637300ac38dde74896193f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_393642_emp_reim.Create reimbursement forms</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_scope_delete display_value="">02c475b0d3814bdb92458fce4d4f5559</sys_scope_delete>
+        <sys_update_name>sys_user_role_2afa489bdb637300ac38dde74896193f</sys_update_name>
+        <sys_update_version display_value="sys_user_role_2afa489bdb637300ac38dde74896193f">7b2b489bdb637300ac38dde7489619d9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-02 17:47:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
