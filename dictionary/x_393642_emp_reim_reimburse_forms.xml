@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Travel Reimbursement" max_length="40" name="x_393642_emp_reim_reimburse_forms" sizeclass="18" type="collection">
+    <element extends="task" label="Travel Reimbursement" max_length="40" name="x_393642_emp_reim_reimburse_forms" sizeclass="82" type="collection">
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Cost" mandatory="true" max_length="20" name="cost" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Cost" mandatory="true" max_length="20" name="cost_1" type="price"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Expenses Type" max_length="40" name="expenses_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Air Travel" sequence="0" value="air travel"/>
+                <element inactive_on_update="false" label="Rail Travel" sequence="1" value="rail travel"/>
+                <element inactive_on_update="false" label="Ground Transportation" sequence="2" value="ground transportation"/>
+                <element inactive_on_update="false" label="Lodging" sequence="3" value="lodging"/>
+                <element inactive_on_update="false" label="Meals" sequence="4" value="meals"/>
+                <element inactive_on_update="false" label="Other" sequence="5" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Expenses Type" max_length="40" name="expense_type_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Air Travel" sequence="0" value="air travel"/>
+                <element inactive_on_update="false" label="Rail Travel" sequence="1" value="rail travel"/>
+                <element inactive_on_update="false" label="Ground Transportation" sequence="2" value="ground transportation"/>
+                <element inactive_on_update="false" label="Lodging" sequence="3" value="lodging"/>
+                <element inactive_on_update="false" label="Meals" sequence="4" value="meals"/>
+                <element inactive_on_update="false" label="Other" sequence="5" value="other"/>
+            </choice>
+        </element>
         <element attributes="encode_utf8=false" label="Employee" mandatory="true" max_length="32" name="u_employee" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Travel End Date" max_length="40" name="u_end_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Impact" max_length="40" name="u_impact" type="string">
@@ -10,6 +32,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Other" mandatory="true" max_length="100" name="u_other" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" mandatory="true" max_length="100" name="u_other_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Payment Type" max_length="40" name="u_payment_type" type="string">
             <choice>
                 <element inactive_on_update="false" label="Credit Card" sequence="0" value="credit card"/>
@@ -17,9 +40,10 @@
                 <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
             </choice>
         </element>
-        <element attributes="omit_sys_original=true" default="0" label="Reimbursement Amount" max_length="20" name="u_reimbursement_amount" type="currency"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="New Price" max_length="20" name="u_price_4" type="price"/>
+        <element attributes="omit_sys_original=true" default="0" label="Reimbursement Amount" max_length="20" name="u_reimbursement_amount" read_only="true" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Travel Start Date" max_length="40" name="u_start_date" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="open" label="Status" max_length="40" name="u_status" read_only="true" type="string">
             <choice>
                 <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
                 <element inactive_on_update="false" label="In Progress" sequence="1" value="in progress"/>
