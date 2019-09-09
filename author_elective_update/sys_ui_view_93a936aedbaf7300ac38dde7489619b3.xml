@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>true</hidden>
+        <name>Manager</name>
+        <roles>approval_admin</roles>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-31 22:23:06</sys_created_on>
+        <sys_id>93a936aedbaf7300ac38dde7489619b3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Manager</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_update_name>sys_ui_view_93a936aedbaf7300ac38dde7489619b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-04 14:26:25</sys_updated_on>
+        <title>Manager</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</application>
+        <file_path/>
+        <instance_id>8ad80b85db87d3c00e785d00cf9619aa</instance_id>
+        <instance_name>dev63061</instance_name>
+        <name>sys_ui_view_93a936aedbaf7300ac38dde7489619b3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>true</hidden><name>Manager</name><roles>approval_admin</roles><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-31 22:23:06</sys_created_on><sys_id>93a936aedbaf7300ac38dde7489619b3</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Manager</sys_name><sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package><sys_policy/><sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope><sys_update_name>sys_ui_view_93a936aedbaf7300ac38dde7489619b3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-04 14:26:25</sys_updated_on><title>Manager</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-1101206413</payload_hash>
+        <record_name>Manager</record_name>
+        <reverted_from/>
+        <source>5268a22edb6f7300ac38dde7489619e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-04 14:26:25</sys_created_on>
+        <sys_id>93e2f133db637300ac38dde7489619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16cfcab5f1f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-04 14:26:25</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>dbe2f13382637300b318b2de386370a1</update_guid>
+        <update_guid_history>dbe2f13382637300b318b2de386370a1:-1101206413,fdb8a05baee37300df46b3b56bdcf52b:1272706407,17a936ae0caf73008da8dc0c9f3664b4:658345540</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 01:45:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>601bcd402dd04ee0814d93df7a9a1d90</sys_id>
+        <sys_metadata>93a936aedbaf7300ac38dde7489619b3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manager</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_scope_delete display_value="">02c475b0d3814bdb92458fce4d4f5559</sys_scope_delete>
+        <sys_update_name>sys_ui_view_93a936aedbaf7300ac38dde7489619b3</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_93a936aedbaf7300ac38dde7489619b3">93e2f133db637300ac38dde7489619a2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 01:45:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

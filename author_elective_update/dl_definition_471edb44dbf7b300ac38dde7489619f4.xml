@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition">
+    <dl_definition action="DELETE">
+        <active>true</active>
+        <matcher_table>x_393642_emp_reim_erf_datalookup</matcher_table>
+        <name>Reimbursement Priority Data Lookup</name>
+        <run_on_form_change>true</run_on_form_change>
+        <run_on_insert>true</run_on_insert>
+        <run_on_update>false</run_on_update>
+        <source_table>x_393642_emp_reim_reimburse_forms</source_table>
+        <sys_class_name>dl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-05 16:53:58</sys_created_on>
+        <sys_id>471edb44dbf7b300ac38dde7489619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reimbursement Priority Data Lookup</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_update_name>dl_definition_471edb44dbf7b300ac38dde7489619f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 16:53:58</sys_updated_on>
+    </dl_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</application>
+        <file_path/>
+        <instance_id>8ad80b85db87d3c00e785d00cf9619aa</instance_id>
+        <instance_name>dev63061</instance_name>
+        <name>dl_definition_471edb44dbf7b300ac38dde7489619f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition"><dl_definition action="INSERT_OR_UPDATE"><active>true</active><matcher_table>x_393642_emp_reim_erf_datalookup</matcher_table><name>Reimbursement Priority Data Lookup</name><run_on_form_change>true</run_on_form_change><run_on_insert>true</run_on_insert><run_on_update>false</run_on_update><source_table>x_393642_emp_reim_reimburse_forms</source_table><sys_class_name>dl_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-05 16:53:58</sys_created_on><sys_id>471edb44dbf7b300ac38dde7489619f4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Reimbursement Priority Data Lookup</sys_name><sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package><sys_policy/><sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope><sys_update_name>dl_definition_471edb44dbf7b300ac38dde7489619f4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-05 16:53:58</sys_updated_on></dl_definition></record_update>]]></payload>
+        <payload_hash>647342019</payload_hash>
+        <record_name>Reimbursement Priority Data Lookup</record_name>
+        <reverted_from/>
+        <source>5268a22edb6f7300ac38dde7489619e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-05 16:53:58</sys_created_on>
+        <sys_id>2e4e9f44dbf7b300ac38dde748961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d0258d3080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 16:53:58</sys_updated_on>
+        <type>Data Lookup Definitions</type>
+        <update_guid>664e9f449bf7b300608f87e3a7f6a781</update_guid>
+        <update_guid_history>664e9f449bf7b300608f87e3a7f6a781:647342019</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Reimbursement Priority Data Lookup">d5bfd7c4dbf7b300ac38dde748961900</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-05 17:00:09</sys_created_on>
+        <sys_db_object display_value="" name="dl_definition">dl_definition</sys_db_object>
+        <sys_id>67c5fe7f3177421f81c14b308b0226d1</sys_id>
+        <sys_metadata>471edb44dbf7b300ac38dde7489619f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reimbursement Priority Data Lookup</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_scope_delete display_value="">02c475b0d3814bdb92458fce4d4f5559</sys_scope_delete>
+        <sys_update_name>dl_definition_471edb44dbf7b300ac38dde7489619f4</sys_update_name>
+        <sys_update_version display_value="dl_definition_471edb44dbf7b300ac38dde7489619f4">2e4e9f44dbf7b300ac38dde748961981</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 17:00:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

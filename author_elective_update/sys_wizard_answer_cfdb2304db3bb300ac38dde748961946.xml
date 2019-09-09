@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Priority_Data_Lookup</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Priority_Data_Lookup</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">777e2892db233300ac38dde748961982</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-05 17:53:16</sys_created_on>
+        <sys_id>cfdb2304db3bb300ac38dde748961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Priority_Data_Lookup</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_update_name>sys_wizard_answer_cfdb2304db3bb300ac38dde748961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 17:53:16</sys_updated_on>
+        <table/>
+        <target_url>x_393642_emp_reim_priority_data_lookup.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</application>
+        <file_path/>
+        <instance_id>8ad80b85db87d3c00e785d00cf9619aa</instance_id>
+        <instance_name>dev63061</instance_name>
+        <name>sys_wizard_answer_cfdb2304db3bb300ac38dde748961946</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Priority_Data_Lookup</answer><button_label/><dependent_value/><element/><name>Priority_Data_Lookup</name><next_question/><order>100</order><payload_name/><question display_value="Application File" name="Application File">777e2892db233300ac38dde748961982</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-05 17:53:16</sys_created_on><sys_id>cfdb2304db3bb300ac38dde748961946</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Priority_Data_Lookup</sys_name><sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package><sys_policy/><sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope><sys_update_name>sys_wizard_answer_cfdb2304db3bb300ac38dde748961946</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-05 17:53:16</sys_updated_on><table/><target_url>x_393642_emp_reim_priority_data_lookup.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>548760932</payload_hash>
+        <record_name>Priority_Data_Lookup</record_name>
+        <reverted_from/>
+        <source>f81e6412db233300ac38dde748961995</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2019-08-30 17:34:41</sys_created_on>
+        <sys_id>34443b4cdb3bb300ac38dde74896197c</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>16ce397ef680000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>f0443b4ca63bb3009c4cf74c8f4c577c</update_guid>
+        <update_guid_history>f0443b4ca63bb3009c4cf74c8f4c577c:548760932</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-05 18:29:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>042b778224f643978bafbf97f6bbde21</sys_id>
+        <sys_metadata>cfdb2304db3bb300ac38dde748961946</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Priority_Data_Lookup</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_parent display_value="Application File">777e2892db233300ac38dde748961982</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_scope_delete display_value="">02c475b0d3814bdb92458fce4d4f5559</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_cfdb2304db3bb300ac38dde748961946</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_cfdb2304db3bb300ac38dde748961946">34443b4cdb3bb300ac38dde74896197c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 18:29:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-05 16:52:26</sys_created_on>
+        <sys_id>48fd9744dbf7b300ac38dde748961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_393642_emp_reim_erf_datalookup.x_393642_emp_reim.erf_datalookup_user</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_security_acl display_value="x_393642_emp_reim_erf_datalookup">80fd9744dbf7b300ac38dde74896194e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_48fd9744dbf7b300ac38dde748961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 16:52:26</sys_updated_on>
+        <sys_user_role display_value="x_393642_emp_reim.erf_datalookup_user" name="x_393642_emp_reim.erf_datalookup_user">48fd5704dbf7b300ac38dde748961950</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</application>
+        <file_path/>
+        <instance_id>8ad80b85db87d3c00e785d00cf9619aa</instance_id>
+        <instance_name>dev63061</instance_name>
+        <name>sys_security_acl_role_48fd9744dbf7b300ac38dde748961951</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-05 16:52:26</sys_created_on><sys_id>48fd9744dbf7b300ac38dde748961951</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_393642_emp_reim_erf_datalookup.x_393642_emp_reim.erf_datalookup_user</sys_name><sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package><sys_policy/><sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope><sys_security_acl display_value="x_393642_emp_reim_erf_datalookup">80fd9744dbf7b300ac38dde74896194e</sys_security_acl><sys_update_name>sys_security_acl_role_48fd9744dbf7b300ac38dde748961951</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-05 16:52:26</sys_updated_on><sys_user_role display_value="x_393642_emp_reim.erf_datalookup_user" name="x_393642_emp_reim.erf_datalookup_user">48fd5704dbf7b300ac38dde748961950</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>206120517</payload_hash>
+        <record_name>x_393642_emp_reim_erf_datalookup.x_393642_emp_reim.erf_datalookup_user</record_name>
+        <reverted_from/>
+        <source>5268a22edb6f7300ac38dde7489619e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-05 16:52:26</sys_created_on>
+        <sys_id>08fd9744dbf7b300ac38dde748961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d025769cb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 16:52:26</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>40fd97445cf7b300fdd9f5ec2402bf54</update_guid>
+        <update_guid_history>40fd97445cf7b300fdd9f5ec2402bf54:206120517</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_393642_emp_reim_erf_datalookup.x_393642_emp_reim.erf_datalookup_user">34bf97c4dbf7b300ac38dde7489619c2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-05 17:00:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>30b1a5fcc2b2470c86108da77439cc24</sys_id>
+        <sys_metadata>48fd9744dbf7b300ac38dde748961951</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_393642_emp_reim_erf_datalookup.x_393642_emp_reim.erf_datalookup_user</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_parent display_value="">80fd9744dbf7b300ac38dde74896194e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_scope_delete display_value="">02c475b0d3814bdb92458fce4d4f5559</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_48fd9744dbf7b300ac38dde748961951</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_48fd9744dbf7b300ac38dde748961951">08fd9744dbf7b300ac38dde748961954</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 17:00:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

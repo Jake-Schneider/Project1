@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" label="Approval" max_length="40" name="sysapproval_approver" type="collection">
-        <element attributes="encode_utf8=false" label="Assign to" max_length="32" name="x_393642_emp_reim_assign_to" reference="sys_user_group" type="reference"/>
+        <element active="false" attributes="encode_utf8=false" label="Assign to" max_length="32" name="x_393642_emp_reim_assign_to" reference="sys_user_group" type="reference"/>
         <element attributes="encode_utf8=false" label="Assign to" max_length="32" name="x_393642_emp_reim_u_reference_1" reference="sys_user" type="reference"/>
         <index name="index">
             <element name="x_393642_emp_reim_assign_to"/>

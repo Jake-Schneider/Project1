@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_type_training" table="x_393642_emp_reim_reimburse_forms" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_type_training</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Java Full-Stack</label>
+            <language>en</language>
+            <name>x_393642_emp_reim_reimburse_forms</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 01:53:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67963019dbbbb700ac38dde7489619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 01:53:48</sys_updated_on>
+            <value>java full-stack</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_type_training</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ServiceNow</label>
+            <language>en</language>
+            <name>x_393642_emp_reim_reimburse_forms</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 01:53:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3963019dbbbb700ac38dde7489619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 01:53:49</sys_updated_on>
+            <value>servicenow</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_type_training</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pega</label>
+            <language>en</language>
+            <name>x_393642_emp_reim_reimburse_forms</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 01:53:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf963019dbbbb700ac38dde7489619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 01:53:49</sys_updated_on>
+            <value>pega</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_type_training</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_393642_emp_reim_reimburse_forms</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 01:53:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b963019dbbbb700ac38dde7489619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 01:53:49</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_type_training</element>
+            <name>x_393642_emp_reim_reimburse_forms</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 01:53:49</sys_created_on>
+            <sys_id>af963019dbbbb700ac38dde7489619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_type_training</sys_name>
+            <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+            <sys_update_name>sys_choice_x_393642_emp_reim_reimburse_forms_u_type_training</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 01:53:49</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

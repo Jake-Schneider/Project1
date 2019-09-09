@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_393642_emp_reim.erf_datalookup_user" name="x_393642_emp_reim.erf_datalookup_user">48fd5704dbf7b300ac38dde748961950</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-05 16:52:25</sys_created_on>
+        <sys_id>8cfd5704dbf7b300ac38dde748961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>48fd5704dbf7b300ac38dde748961950</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8cfd5704dbf7b300ac38dde748961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-05 16:52:25</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

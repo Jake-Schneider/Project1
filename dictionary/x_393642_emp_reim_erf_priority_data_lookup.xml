@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="dl_u_priority" label="ERF_Priority_Data_lookup" max_length="40" name="x_393642_emp_reim_erf_priority_data_lookup" type="collection"/>
+</database>
