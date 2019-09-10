@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>u_reimbursement_amount</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 13:21:05</sys_created_on>
+        <sys_id>8fd39311db37f700ac38dde748961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_reimbursement_amount</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_8fd39311db37f700ac38dde748961938</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 13:21:05</sys_updated_on>
+        <table>x_393642_emp_reim_reimburse_forms</table>
+        <ui_policy display_value="make reimbursment amount read only">38831fdddbf3f700ac38dde74896197e</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</application>
+        <file_path/>
+        <instance_id>8ad80b85db87d3c00e785d00cf9619aa</instance_id>
+        <instance_name>dev63061</instance_name>
+        <name>sys_ui_policy_action_8fd39311db37f700ac38dde748961938</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>u_reimbursement_amount</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-09 13:21:05</sys_created_on><sys_id>8fd39311db37f700ac38dde748961938</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_reimbursement_amount</sys_name><sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package><sys_policy/><sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope><sys_update_name>sys_ui_policy_action_8fd39311db37f700ac38dde748961938</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-09 13:21:05</sys_updated_on><table>x_393642_emp_reim_reimburse_forms</table><ui_policy display_value="make reimbursment amount read only">38831fdddbf3f700ac38dde74896197e</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1725457784</payload_hash>
+        <record_name>u_reimbursement_amount</record_name>
+        <reverted_from/>
+        <source>5268a22edb6f7300ac38dde7489619e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 13:21:06</sys_created_on>
+        <sys_id>5be35fdddbf3f700ac38dde7489619f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d162f5dea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 13:21:06</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>93e35fdd39f3f7004f4927a09f9c2df6</update_guid>
+        <update_guid_history>93e35fdd39f3f7004f4927a09f9c2df6:1725457784</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 13:26:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>04c29b51d89d48708110a240cbc4c100</sys_id>
+        <sys_metadata>8fd39311db37f700ac38dde748961938</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_reimbursement_amount</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_scope_delete display_value="">02c475b0d3814bdb92458fce4d4f5559</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_8fd39311db37f700ac38dde748961938</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_8fd39311db37f700ac38dde748961938">5be35fdddbf3f700ac38dde7489619f6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 13:26:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

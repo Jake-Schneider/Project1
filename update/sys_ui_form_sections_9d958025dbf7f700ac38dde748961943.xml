@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="9d958025dbf7f700ac38dde748961943" sys_domain="global" table="x_393642_emp_reim_reimbursement_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 17:48:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26111461db3bf700ac38dde74896195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_393642_emp_reim_reimbursement_task" name="x_393642_emp_reim_reimbursement_task" sys_domain="global" view="d869b899dbbbb700ac38dde7489619c6">9d958025dbf7f700ac38dde748961943</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_393642_emp_reim_reimbursement_task" sys_domain="global" view="d869b899dbbbb700ac38dde7489619c6">adc73395dbb7f700ac38dde748961952</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 17:48:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_393642_emp_reim_reimbursement_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 16:58:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d958025dbf7f700ac38dde748961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_393642_emp_reim_reimbursement_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9d958025dbf7f700ac38dde748961943</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 16:58:12</sys_updated_on>
+            <sys_user/>
+            <view display_value="Team Lead" name="Team_Lead">d869b899dbbbb700ac38dde7489619c6</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

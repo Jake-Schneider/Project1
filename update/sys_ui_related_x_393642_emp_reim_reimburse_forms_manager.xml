@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_393642_emp_reim_reimburse_forms" version="2" view="Manager">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Travel Reimbursement - Manager" name="x_393642_emp_reim_reimburse_forms" related_list="NULL" sys_domain="global" view="69597899dbbbb700ac38dde74896197b">3e35c8e1dbf7f700ac38dde74896190d</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 16:56:30</sys_created_on>
+            <sys_id>f235c8e1dbf7f700ac38dde74896190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 16:56:30</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Travel Reimbursement - Manager" name="x_393642_emp_reim_reimburse_forms" related_list="NULL" sys_domain="global" view="69597899dbbbb700ac38dde74896197b">3e35c8e1dbf7f700ac38dde74896190d</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 16:56:30</sys_created_on>
+            <sys_id>f635c8e1dbf7f700ac38dde74896190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 16:56:30</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Travel Reimbursement - Manager" name="x_393642_emp_reim_reimburse_forms" related_list="NULL" sys_domain="global" view="69597899dbbbb700ac38dde74896197b">3e35c8e1dbf7f700ac38dde74896190d</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>x_393642_emp_reim_reimburse_forms.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 16:56:30</sys_created_on>
+            <sys_id>fa35c8e1dbf7f700ac38dde74896190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 16:56:30</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Travel Reimbursement - Manager</calculated_name>
+            <filter/>
+            <name>x_393642_emp_reim_reimburse_forms</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 16:56:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e35c8e1dbf7f700ac38dde74896190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Travel Reimbursement - Manager</sys_name>
+            <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+            <sys_update_name>sys_ui_related_x_393642_emp_reim_reimburse_forms_Manager</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 16:56:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Manager" name="Manager">69597899dbbbb700ac38dde74896197b</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

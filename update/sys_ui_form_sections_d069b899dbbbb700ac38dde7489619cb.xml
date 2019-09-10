@@ -24,7 +24,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_393642_emp_reim_reimburse_forms" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="d869b899dbbbb700ac38dde7489619c6">d069b899dbbbb700ac38dde7489619cb</sys_ui_form>
-            <sys_ui_section caption="Travel Information" display_value="Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="d869b899dbbbb700ac38dde7489619c6">5069b899dbbbb700ac38dde7489619ca</sys_ui_section>
+            <sys_ui_section caption="Expenses and Travel Information" display_value="Expenses and Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="d869b899dbbbb700ac38dde7489619c6">5069b899dbbbb700ac38dde7489619ca</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-09-09 02:05:52</sys_updated_on>
         </sys_ui_form_section>
@@ -38,7 +38,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_393642_emp_reim_reimburse_forms" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="d869b899dbbbb700ac38dde7489619c6">d069b899dbbbb700ac38dde7489619cb</sys_ui_form>
-            <sys_ui_section caption="Expenses Type" display_value="Expenses Type" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="d869b899dbbbb700ac38dde7489619c6">1869b899dbbbb700ac38dde7489619ca</sys_ui_section>
+            <sys_ui_section caption="Approval" display_value="Approval" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="d869b899dbbbb700ac38dde7489619c6">1869b899dbbbb700ac38dde7489619ca</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-09-09 02:05:52</sys_updated_on>
         </sys_ui_form_section>

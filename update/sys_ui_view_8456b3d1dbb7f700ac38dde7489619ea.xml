@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Accounts_Team</name>
+        <roles>x_393642_emp_reim.reimbursement_task_use</roles>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 15:51:19</sys_created_on>
+        <sys_id>8456b3d1dbb7f700ac38dde7489619ea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Accounts Team</sys_name>
+        <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+        <sys_update_name>sys_ui_view_8456b3d1dbb7f700ac38dde7489619ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 16:33:36</sys_updated_on>
+        <title>Accounts Team</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

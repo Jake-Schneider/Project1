@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Approval/state" section_id="4856f3d1dbb7f700ac38dde7489619a9" sys_domain="global" table="x_393642_emp_reim_reimburse_forms" version="3" view="Accounts_Team">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 15:51:20</sys_created_on>
+            <sys_id>4456f3d1dbb7f700ac38dde7489619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approval/state" display_value="Approval/state" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="8456b3d1dbb7f700ac38dde7489619ea">4856f3d1dbb7f700ac38dde7489619a9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 15:51:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 15:51:20</sys_created_on>
+            <sys_id>c456f3d1dbb7f700ac38dde7489619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Approval/state" display_value="Approval/state" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="8456b3d1dbb7f700ac38dde7489619ea">4856f3d1dbb7f700ac38dde7489619a9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 15:51:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Approval/state</caption>
+            <header>false</header>
+            <name>x_393642_emp_reim_reimburse_forms</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 15:51:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4856f3d1dbb7f700ac38dde7489619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Approval/state</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
+            <sys_update_name>sys_ui_section_4856f3d1dbb7f700ac38dde7489619a9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 15:51:19</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Accounts Team" name="Accounts_Team">8456b3d1dbb7f700ac38dde7489619ea</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

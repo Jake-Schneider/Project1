@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="Travel Information" section_id="5ce574d5dbbbb700ac38dde748961955" sys_domain="global" table="x_393642_emp_reim_reimburse_forms" version="3" view="">
+    <sys_ui_section caption="Expenses and Travel Information" section_id="5ce574d5dbbbb700ac38dde748961955" sys_domain="global" table="x_393642_emp_reim_reimburse_forms" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_start_date</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-09 01:50:35</sys_created_on>
-            <sys_id>ace574d5dbbbb700ac38dde748961974</sys_id>
+            <sys_created_on>2019-09-09 13:57:14</sys_created_on>
+            <sys_id>b43cdb19db37f700ac38dde74896195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Travel Information" display_value="Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
+            <sys_ui_section caption="Expenses and Travel Information" display_value="Expenses and Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-09 01:50:35</sys_updated_on>
+            <sys_updated_on>2019-09-09 13:57:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_end_date</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-09 01:50:35</sys_created_on>
-            <sys_id>20e574d5dbbbb700ac38dde748961975</sys_id>
+            <sys_created_on>2019-09-09 13:57:14</sys_created_on>
+            <sys_id>7c3cdb19db37f700ac38dde74896195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Travel Information" display_value="Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
+            <sys_ui_section caption="Expenses and Travel Information" display_value="Expenses and Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-09 01:50:35</sys_updated_on>
+            <sys_updated_on>2019-09-09 13:57:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_expense_type</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-09 01:50:35</sys_created_on>
-            <sys_id>a0e574d5dbbbb700ac38dde748961975</sys_id>
+            <sys_created_on>2019-09-09 13:57:14</sys_created_on>
+            <sys_id>fc3cdb19db37f700ac38dde74896195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Travel Information" display_value="Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
+            <sys_ui_section caption="Expenses and Travel Information" display_value="Expenses and Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-09 01:50:35</sys_updated_on>
+            <sys_updated_on>2019-09-09 13:57:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>u_reimbursement_amount</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-09 01:50:35</sys_created_on>
-            <sys_id>24e574d5dbbbb700ac38dde748961975</sys_id>
+            <sys_created_on>2019-09-09 13:57:14</sys_created_on>
+            <sys_id>703cdb19db37f700ac38dde74896195d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Travel Information" display_value="Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
+            <sys_ui_section caption="Expenses and Travel Information" display_value="Expenses and Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-09 01:50:35</sys_updated_on>
+            <sys_updated_on>2019-09-09 13:57:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>u_payment_type</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-09 01:50:35</sys_created_on>
-            <sys_id>a4e574d5dbbbb700ac38dde748961975</sys_id>
+            <sys_created_on>2019-09-09 13:57:14</sys_created_on>
+            <sys_id>f03cdb19db37f700ac38dde74896195d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Travel Information" display_value="Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
+            <sys_ui_section caption="Expenses and Travel Information" display_value="Expenses and Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-09 01:50:35</sys_updated_on>
+            <sys_updated_on>2019-09-09 13:57:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,18 +74,32 @@
             <element>u_other_1</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-09 01:50:35</sys_created_on>
-            <sys_id>28e574d5dbbbb700ac38dde748961975</sys_id>
+            <sys_created_on>2019-09-09 13:57:14</sys_created_on>
+            <sys_id>743cdb19db37f700ac38dde74896195d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Travel Information" display_value="Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
+            <sys_ui_section caption="Expenses and Travel Information" display_value="Expenses and Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-09 01:50:35</sys_updated_on>
+            <sys_updated_on>2019-09-09 13:57:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-09 13:57:14</sys_created_on>
+            <sys_id>f43cdb19db37f700ac38dde74896195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Expenses and Travel Information" display_value="Expenses and Travel Information" name="x_393642_emp_reim_reimburse_forms" sys_domain="global" view="Default view">5ce574d5dbbbb700ac38dde748961955</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-09 13:57:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption>Travel Information</caption>
+            <caption>Expenses and Travel Information</caption>
             <header>false</header>
             <name>x_393642_emp_reim_reimburse_forms</name>
             <roles/>
@@ -95,15 +109,15 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>5ce574d5dbbbb700ac38dde748961955</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Travel Information</sys_name>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Expenses and Travel Information</sys_name>
             <sys_overrides/>
             <sys_package display_value="Employee Reimbursement" source="x_393642_emp_reim">16682a6adb6f7300ac38dde7489619d1</sys_package>
             <sys_policy/>
             <sys_scope display_value="Employee Reimbursement">16682a6adb6f7300ac38dde7489619d1</sys_scope>
             <sys_update_name>sys_ui_section_5ce574d5dbbbb700ac38dde748961955</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-09 01:50:35</sys_updated_on>
+            <sys_updated_on>2019-09-09 13:57:14</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
